@@ -11,7 +11,7 @@ package edu.fsu.cs.cen5035;
  */
 public class RoleGame {
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         Weapon sword = WeaponFactory.getWeapon("sword");
         System.out.println("Sword has " + sword.hit() + " of damage.");
         int armor = 20;
