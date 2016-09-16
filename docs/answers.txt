@@ -1,0 +1,11 @@
+A) 3
+B) The .gitignore file was last modified at 10:29:34 on 9/15/2016 as per gitk
+C) Sword.java: 2
+   WeaponFactory.java: 1
+   BasicWeapon.java: 1
+   Weapon.java: 1
+   RoleGame.java: 1
+D) Git log prints out all the changes that were made to the repository in order.   Git status describes your location relative to the master branch.
+E) git log RoleGame.java
+F) git log --grep file
+G) git log --author Alice --before 9/16/2016 --after 9/1/2016
