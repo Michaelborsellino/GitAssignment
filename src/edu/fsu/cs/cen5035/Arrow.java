@@ -7,7 +7,7 @@ package edu.fsu.cs.cen5035;
 public class Arrow extends BasicWeapon implements Weapon {
 
     public Arrow() {
-        super(50);
+        super(70);
     }
 
     @Override

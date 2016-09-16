@@ -7,7 +7,7 @@ package edu.fsu.cs.cen5035;
 public class Axe extends BasicWeapon implements Weapon {
 
     public Axe() {
-        super(50);
+        super(60);
     }
 
     @Override

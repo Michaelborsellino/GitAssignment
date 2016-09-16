@@ -7,7 +7,7 @@ package edu.fsu.cs.cen5035;
 public class MagicStaff extends BasicWeapon implements Weapon {
 
     public MagicStaff() {
-        super(50);
+        super(80);
     }
 
     @Override
